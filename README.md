@@ -22,5 +22,4 @@ This project is the backend system for an e-commerce platform, developed using *
 - **SQL Server** (or any preferred RDBMS)
 - **Swagger** (for API documentation and testing)
 
-## 📁 Project Structure
 
